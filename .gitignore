@@ -1,0 +1,32 @@
+# --- Archivos y carpetas del proyecto ---
+urls_imagenes.txt
+imagenes_descargadas/
+
+# --- Entornos virtuales ---
+venv/
+env/
+.venv/
+.python-version
+
+# --- Archivos Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# --- Logs ---
+*.log
+
+# --- Configuración del sistema / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# --- Archivos temporales ---
+*.tmp
+*.temp
+*.bak
+*.swp
+*.cache
