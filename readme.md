@@ -73,6 +73,14 @@ Puedes cambiarlo modificando esta constante:
 ```python
 NOMBRE_ARCHIVO_HTML = 'index.html'
 ```
+Para obtener el archivo .html los mas simple es:
+1. Click derecho/Ver codigo fuente de la pagina, en cualquier sitio web, se abrira una nueva pestaña con el html
+
+<img width="371" height="437" alt="Screenshot_16" src="https://github.com/user-attachments/assets/32e040d1-c7bf-4103-aba3-d2e9157396de" />
+
+2. Clik derecho/guardar como, guardar el archivo con el nombre que desees, recomiendo *index.html*
+
+<img width="1352" height="596" alt="Screenshot_17" src="https://github.com/user-attachments/assets/91683c2d-908d-495f-af30-ceab164462a9" />
 
 ---
 
